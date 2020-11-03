@@ -6,18 +6,15 @@ usethis::use_course(url, destdir = getOption("usethis.destdir")) will allow you 
 
 # Final Group Project Assignment
 
-- Create a new public repo for your final group project and initialize it with a "readme" file.
+- Create a new public repo for your final group project and initialize it with a "readme" file. 
 - Edit the readme.md file to be a short, one-page descrtiption of what youf inal project is about
 - **Add a row** in the table below with your study information, using the first row as a template
-    - Name, Study Group, and Github ID, url for Github Repo for portfolio website, and portfolio website address 
-    - (1 pts) **commit** your changes and submit **pull** request   
+    - **commit** your changes and submit **pull** request   
             - write a **descriptive** commit message (e.g. "added Kostis Christodoulou to class table")  
             - click green button "Propose file change" & start pull request  
     - make sure the link works (e.g., wrap url in "<" and ">" to activate link on actual website)  
     - **Important**: Your entry will NOT appear on the class table right away.  Once you submit the "pull request" the owner of the repo (me) needs to approve and merge it into the "master" before your entry will appear in the class table on the website. 
 
-# You may find <http://happygitwithr.com/index.html> useful
- 
 <br>
 
 # Class GitHub Table with all portfolio websites
