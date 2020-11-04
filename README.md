@@ -17,7 +17,7 @@ usethis::use_course(url, destdir = getOption("usethis.destdir")) will allow you 
 
 <br>
 
-# Class GitHub Table with all portfolio websites
+# Class GitHub Table with all final projects
 
 |No | Name                  | Study Group   | SG Members           |Github ID                      |Github Repo for final project            |Date Added     |  
 |:---|:----------------------|:--------------|:---------------------|:------------------------------------------------------|:------------------------------------|:-----------------------| 
