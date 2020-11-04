@@ -19,6 +19,6 @@ usethis::use_course(url, destdir = getOption("usethis.destdir")) will allow you 
 
 # Class GitHub Table with all final projects
 
-|No | Name                  | Study Group   | SG Members           |Github ID                      |Github Repo for final project            |Date Added     |  
-|:---|:----------------------|:--------------|:---------------------|:------------------------------------------------------|:------------------------------------|:-----------------------| 
-|00|Kostis Christodoulou   | 00     | Kostis, all alone |kostis-christodoulou   |<https://github.com/kostis-christodoulou/am10.mam2021>        |2020-10-31 |
+|No | Name                  | Study Group   | SG Members           |Github ID                      |Github Repo for final project        | URL address for final project       |Date Added     |  
+|:---|:----------------------|:--------------|:---------------------|:------------------------------------------------------|:-----------------------|:-------------------------------------|:-----------------------| 
+|00|Kostis Christodoulou   | 00     | Kostis, all alone |kostis-christodoulou   |<https://github.com/kostis-christodoulou/am10.mam2021>        | <https://kchristodoulou.shinyapps.io/portfolio_capm_dashboard/>        |2020-10-31 |
