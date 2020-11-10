@@ -20,3 +20,4 @@ usethis::use_course(url, destdir = getOption("usethis.destdir")) will allow you 
 | Study Group   | SG Members           |Github ID                      |Github Repo for final project        | URL address for final project       |Date Added     |  
 |:--------------|:---------------------|:------------------------------------------------------|:-----------------------|:-------------------------------------|:-----------------------| 
 | 00     | Kostis, all alone |kostis-christodoulou   |<https://github.com/kostis-christodoulou/am10.mam2021>        | <https://kchristodoulou.shinyapps.io/portfolio_capm_dashboard/>        |2020-10-31 |
+| 00     | Alberto Lambert, Sijia Liu, Abhinav Bhardwaj, Feiyang Ni, Bartek Makuch, Anna Plaschke |alambert-ux   |<https://github.com/alambert-ux/AM10_SG11>        | <N/A>        |2020-11-10 |
