@@ -22,3 +22,4 @@ usethis::use_course(url, destdir = getOption("usethis.destdir")) will allow you 
 | 00     | Kostis, all alone |kostis-christodoulou   |<https://github.com/kostis-christodoulou/am10.mam2021>        | <https://kchristodoulou.shinyapps.io/portfolio_capm_dashboard/>        |2020-10-31 |
 | 10     | Noor Alameri, Brigita Angkasa, Lujia Huang, Martino Armanini, Marco Laube, Deniz Oezdemir | m-laube  |<https://github.com/m-laube/am10.sg10>        | <N/A>        |2020-11-11 |
 | 11     | Alberto Lambert, Sijia Liu, Abhinav Bhardwaj, Feiyang Ni, Bartek Makuch, Anna Plaschke |alambert-ux   |<https://github.com/alambert-ux/AM10_SG11>        | <N/A>        |2020-11-10 |
+| 12     |Cecilia Zhiyan Chen, Marie Krainer, David Nazareth, Brendan Kermorvan, Shuhan Li |david-nazareth |<https://github.com/david-nazareth/AM10_SG12>|<N/A>     | 2020-11-11 |
