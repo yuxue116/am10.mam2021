@@ -25,3 +25,4 @@ usethis::use_course(url, destdir = getOption("usethis.destdir")) will allow you 
 | 12     |Cecilia Zhiyan Chen, Marie Krainer, David Nazareth, Brendan Kermorvan, Shuhan Li |david-nazareth |<https://github.com/david-nazareth/AM10_SG12>|<N/A>     | 2020-11-11 |
 | 01     |Ilana Kovalenko, Aleksander Vignjevic, Ziyi Yang, Keshav Asokan, Julia Tulloh, Jasper Muller |Jasper-Mueller |<https://github.com/Jasper-Mueller/NotNamedGroup1ForNothing>|<N/A>     | 2020-11-11 |
 | 02     |Ken Dobson, Fabian Sinn, Proud Chaikul, Acacia Cai, Othman Bensouda, Carlota Castro |dobsonke |<https://github.com/dobsonke/dataVizProject>| <N/A>     | 2020-11-11 |
+| 03     |Neel Kamal Puri, Kushal Kundanmal, Selin Beijersbergen, Oliver Ayton, Yuxue Sang |yuxue116 |<https://github.com/yuxue116/AM10-Final-Project---Group-3>| <N/A>     | 2020-11-11 |
